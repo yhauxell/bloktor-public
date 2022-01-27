@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <circle id="Oval" fill="#03316C" cx="70" cy="70" r="70"></circle>
+            <circle id="Oval-Copy" fill="#FFFFFF" cx="70" cy="68.5" r="51.5"></circle>
+            <path d="M91.2814371,109 L83.4161677,109 L74,100.439024 L74,96.0487805 L83.748503,86.8292683 L83.748503,72.2317073 L96.488024,64 L111,74.8658537 L91.2814371,109 Z M59.3070866,86 L60.7401575,72.2869198 L56,60 L84,60 L79.3700787,72.2869198 L80.6929134,86 L69.8897638,86 L59.3070866,86 Z M66,100.329268 L56.639881,109 L48.7113095,109 L29,74.7560976 L43.5357143,64 L56.3095238,72.1219512 L56.3095238,86.7195122 L66,95.9390244 L66,100.329268 Z M48.1111111,35 L91.7777778,35 L97,57 L43,57 L48.1111111,35 Z M70,7 L15,38.75 L15,102.25 L70,134 L125,102.25 L125,38.75 L70,7 Z" id="Shape" fill="#03316C" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

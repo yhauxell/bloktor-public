@@ -1,0 +1,8 @@
+POST http://localhost:5001/bloktor-com/us-central1/search_coins
+content-type: application/json
+
+{
+    "data": {
+        "term": "eth"
+    }
+}
